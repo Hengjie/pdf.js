@@ -97,6 +97,10 @@ or to build it from source. We supply pre-built versions for usage with NPM and 
 the `pdfjs-dist` name. For more information and examples please refer to the
 [wiki page](https://github.com/mozilla/pdf.js/wiki/Setup-pdf.js-in-a-website) on this subject.
 
+## Browser Testing
+
+Use [Browser Stack](https://www.browserstack.com) to test pdf.js against different versions of software without having to maintain different virtual machines. 
+
 ## Learning
 
 You can play with the PDF.js API directly from your browser through the live
